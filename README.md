@@ -12,3 +12,6 @@ This programs consists of these courses:
 ## Projects
 ### Project 1 (Introduction to Machine Learning)
 In this project we predict Bike Sharing Demand using AutoGluon for model selection and hyperparameters optimization.
+
+### Project 2 (Developing Your First ML Workflow)
+In this project we use AWS services to train a model, deploy a model, and use AWS Lambda Functions, Step Functions to compose your model and services into an event-driven application.
