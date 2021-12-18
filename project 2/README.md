@@ -15,7 +15,11 @@ Step Function's JSON Definition is located in [step_function/](step_function/)
 
 Screenshot of working Step Function:
 
-![Screenshot.png](step_function/Screenshot.png)
+### Succeded Step Function:
+![Screenshot.png](step_function/Screenshot_1.png)
+
+### Failed Step Function:
+![Screenshot.png](step_function/Screenshot_2.png)
 
 ## Visualization
 The vizualization demonstrates the resulting inferences:
