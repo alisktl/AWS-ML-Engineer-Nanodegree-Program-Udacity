@@ -20,4 +20,11 @@ Screenshot of working Step Function:
 ## Visualization
 The vizualization demonstrates the resulting inferences:
 
-![vizualization.png](vizualization.png)
+### Scatter plot:
+![scatter.png](vizualization/scatter.png)
+
+### Histogram:
+![hist.png](vizualization/hist.png)
+
+### Box plot:
+![boxplot.png](vizualization/boxplot.png)
