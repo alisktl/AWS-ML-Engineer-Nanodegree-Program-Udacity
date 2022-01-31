@@ -15,3 +15,6 @@ In this project we predict Bike Sharing Demand using AutoGluon for model selecti
 
 ### Project 2 (Developing Your First ML Workflow)
 In this project we use AWS services to train a model, deploy a model, and use AWS Lambda Functions, Step Functions to compose your model and services into an event-driven application.
+
+### Project 3 (Deep Learning Topics within Computer Vision and NLP)
+In this project we predict dog breeds. Here we learn how to finetune a pretrained Deep Learning model, tune hyperparameters and deploy model with best hyperparameters.
