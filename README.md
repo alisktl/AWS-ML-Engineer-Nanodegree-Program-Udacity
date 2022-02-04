@@ -18,3 +18,11 @@ In this project we use AWS services to train a model, deploy a model, and use AW
 
 ### Project 3 (Deep Learning Topics within Computer Vision and NLP)
 In this project we predict dog breeds. Here we learn how to finetune a pretrained Deep Learning model, tune hyperparameters and deploy model with best hyperparameters.
+
+### Project 4 (Operationalizing Machine Learning on SageMaker)
+In this project we learn:
+1. use AWS resources efficiently and optimally
+2. set up multi-instance training
+3. set up auto-scaling for endpoints, so it allows to process requests on multiple instances
+4. set up concurrency for lambda functions, so it helps to decrease the latency of a project in a high-traffic situations
+5. set up policies to AWS roles
