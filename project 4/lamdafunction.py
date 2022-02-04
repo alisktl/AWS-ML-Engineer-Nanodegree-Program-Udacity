@@ -1,4 +1,3 @@
-
 import base64
 import logging
 import json
@@ -10,7 +9,7 @@ logger.setLevel(logging.DEBUG)
 print('Loading Lambda function')
 
 runtime=boto3.Session().client('sagemaker-runtime')
-endpoint_Name='BradTestEndpoint'
+endpoint_Name='pytorch-inference-2022-02-01-10-44-55-965'
 
 def lambda_handler(event, context):
 
