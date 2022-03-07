@@ -26,3 +26,6 @@ In this project we learn:
 3. set up auto-scaling for endpoints, so it allows to process requests on multiple instances
 4. set up concurrency for lambda functions, so it helps to decrease the latency of a project in a high-traffic situations
 5. set up policies to AWS roles
+
+### Project 5 (Capstone Proposal)
+In this capstone project proposal, prior to completing the following **Capstone Project**, we leverage what we’ve learned throughout the Nanodegree program to author a proposal for solving a problem of our choice by applying machine learning algorithms and techniques.
